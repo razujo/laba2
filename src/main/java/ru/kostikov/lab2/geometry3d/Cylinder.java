@@ -4,9 +4,7 @@ import ru.kostikov.lab2.exceptions.InvalidDimensionException;
 import ru.kostikov.lab2.exceptions.InvalidFigureException;
 import ru.kostikov.lab2.geometry2d.Figure;
 
-/**
- * Обобщённый цилиндр: основание — любая плоская фигура, объём = площадь основания * высота.
- */
+// Обобщённый цилиндр: основание — любая плоская фигура, объём = площадь основания * высота.
 public class Cylinder {
     private final Figure base;
     private final double height;

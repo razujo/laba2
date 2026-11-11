@@ -2,9 +2,7 @@ package ru.kostikov.lab2.geometry2d;
 
 import ru.kostikov.lab2.exceptions.InvalidDimensionException;
 
-/**
- * Круг заданного радиуса.
- */
+// Круг заданного радиуса.
 public class Circle implements Figure {
     private final double radius;
 

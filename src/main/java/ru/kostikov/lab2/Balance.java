@@ -1,8 +1,6 @@
 package ru.kostikov.lab2;
 
-/**
- * Задание 2. Весы с двумя чашами.
- */
+// Задание 2. Весы с двумя чашами.
 public class Balance {
     private int left;
     private int right;
@@ -15,7 +13,7 @@ public class Balance {
         right += weight;
     }
 
-    /** Печатает "=" при равновесии, "R" — перевесила правая чаша, "L" — левая. */
+    // Печатает "=" при равновесии, "R" — перевесила правая чаша, "L" — левая.
     public void result() {
         if (left == right) {
             System.out.println("=");

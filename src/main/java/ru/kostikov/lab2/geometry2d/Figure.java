@@ -1,8 +1,6 @@
 package ru.kostikov.lab2.geometry2d;
 
-/**
- * Плоская фигура.
- */
+// Плоская фигура.
 public interface Figure {
     double area();
 

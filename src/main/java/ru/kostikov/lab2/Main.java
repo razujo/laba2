@@ -7,9 +7,7 @@ import ru.kostikov.lab2.geometry2d.Figure;
 import ru.kostikov.lab2.geometry2d.Rectangle;
 import ru.kostikov.lab2.geometry3d.Cylinder;
 
-/**
- * Лабораторная работа №2. Проверка всех классов.
- */
+// Лабораторная работа №2. Проверка всех классов.
 public class Main {
     public static void main(String[] args) {
         System.out.println("===== Задание 1 =====");

@@ -3,9 +3,7 @@ package ru.kostikov.lab2;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Задание 4. Разделение добавленных чисел на чётные и нечётные с сохранением порядка.
- */
+// Задание 4. Разделение добавленных чисел на чётные и нечётные с сохранением порядка.
 public class OddEvenSeparator {
     private final List<Integer> evens = new ArrayList<>();
     private final List<Integer> odds = new ArrayList<>();

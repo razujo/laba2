@@ -1,8 +1,6 @@
 package ru.kostikov.lab2;
 
-/**
- * Задание 1. Кнопка, считающая количество нажатий.
- */
+// Задание 1. Кнопка, считающая количество нажатий.
 public class Button {
     private int clicks;
 

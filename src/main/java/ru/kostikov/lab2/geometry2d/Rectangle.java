@@ -2,9 +2,7 @@ package ru.kostikov.lab2.geometry2d;
 
 import ru.kostikov.lab2.exceptions.InvalidDimensionException;
 
-/**
- * Прямоугольник со сторонами width и height.
- */
+// Прямоугольник со сторонами width и height.
 public class Rectangle implements Figure {
     private final double width;
     private final double height;
